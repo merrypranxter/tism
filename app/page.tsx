@@ -516,6 +516,39 @@ export default function Home() {
             <span>GLSL</span><span>FUNGI</span><span>QUASICRYSTALS</span><span>ASCII</span><span>RECURSION</span><span>COLOR</span><span>MCKENNA</span><span>VORONOI</span><span>GLITCH</span><span>COSMOLOGY</span><span>REPOS</span><span>HAPPY ACCIDENTS</span>
           </div>
         </section>
+
+        <section className="sources" aria-labelledby="sources-title">
+          <div>
+            <p className="eyebrow">08 / THE EVIDENCE SHELF</p>
+            <h2 id="sources-title">Receipts, because vibes are not methodology.</h2>
+            <p>
+              The interpretation throughout this site is personal. These sources anchor the formal criteria, adult-assessment context, camouflaging research, and the specific concept of autistic burnout.
+            </p>
+          </div>
+          <ol>
+            <li>
+              <a href="https://www.cdc.gov/autism/hcp/diagnosis/index.html" target="_blank" rel="noreferrer">
+                <span>01 / FRAMEWORK</span><strong>CDC: DSM-5 diagnostic criteria for autism</strong><em>Clinical criteria, not an internet quiz.</em>
+              </a>
+            </li>
+            <li>
+              <a href="https://www.nice.org.uk/guidance/cg142" target="_blank" rel="noreferrer">
+                <span>02 / ADULTS</span><strong>NICE: autism in adults—diagnosis and management</strong><em>Adult identification, assessment, overlap, and support.</em>
+              </a>
+            </li>
+            <li>
+              <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6394586/" target="_blank" rel="noreferrer">
+                <span>03 / CAMOUFLAGE</span><strong>Hull et al.: Development and validation of the CAT-Q</strong><em>A measure built from autistic adults&apos; camouflaging experiences.</em>
+              </a>
+            </li>
+            <li>
+              <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7313636/" target="_blank" rel="noreferrer">
+                <span>04 / BURNOUT</span><strong>Raymaker et al.: Defining Autistic Burnout</strong><em>Chronic exhaustion, loss of skills, and reduced stimulus tolerance.</em>
+              </a>
+            </li>
+          </ol>
+          <p className="fact-check">FACT-CHECKED // JULY 2026 // STILL A LIVING DOCUMENT</p>
+        </section>
       </main>
 
       <footer>
